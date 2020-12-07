@@ -1,7 +1,7 @@
 {
     "name": "lwc-open-source-with-heroku",
     "description": "LWC Open Source with Heroku",
-    "repository": "https://github.com/Tdssaini/lwc-open-source-with-heroku",
+    "repository": "https://github.com/iamapoorvasaraswat/lwc-open-source-with-heroku",
     "logo": "https://developer.salesforce.com/resources2/quests/badge2.png",
     "keywords": ["node", "express", "static"],
     "env": {
